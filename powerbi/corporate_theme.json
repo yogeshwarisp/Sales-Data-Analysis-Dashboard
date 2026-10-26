@@ -1,0 +1,72 @@
+{
+  "name": "Sales Corporate Blue",
+  "dataColors": [
+    "#1F4E79",
+    "#2E9CCA",
+    "#F39C12",
+    "#2E8B57",
+    "#C0392B",
+    "#7F8C8D",
+    "#8E6BB8",
+    "#16A085"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C3E50",
+  "tableAccent": "#1F4E79",
+  "good": "#2E8B57",
+  "neutral": "#F39C12",
+  "bad": "#C0392B",
+  "maximum": "#1F4E79",
+  "center": "#F5B041",
+  "minimum": "#D6EAF8",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#2C3E50"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 10,
+      "color": "#2C3E50"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 24,
+      "color": "#1F4E79"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 11,
+      "color": "#2C3E50"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#2C3E50" } },
+            "fontFamily": "Segoe UI Semibold",
+            "fontSize": 12
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D5DBDB" } },
+            "radius": 6
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

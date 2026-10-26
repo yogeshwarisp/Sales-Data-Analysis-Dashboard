@@ -1,0 +1,4 @@
+order_status,orders,total_sales,total_profit
+Profitable,4054,1841131.98,432769.37
+Loss-making,1040,476390.39,-140495.91
+Break-even,17,8631.5,0.0

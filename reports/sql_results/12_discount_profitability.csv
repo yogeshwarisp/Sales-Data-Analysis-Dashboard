@@ -1,0 +1,5 @@
+discount_band,records,avg_discount_pct,total_sales,total_profit,profit_margin_pct,loss_making_records
+No Discount,4924,0.0,1105224.67,326683.17,29.56,0
+1-20%,3854,19.68,856450.41,101598.91,11.86,531
+21-40%,463,34.59,235183.91,-35978.9,-15.3,418
+Over 40%,951,69.92,129294.87,-100029.73,-77.37,951

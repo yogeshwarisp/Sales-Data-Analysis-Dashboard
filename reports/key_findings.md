@@ -1,0 +1,21 @@
+# Key Findings (calculated from the dataset)
+
+- Dataset: 10,192 records, 5,111 orders, 2023-01-03 to 2026-12-30.
+- Totals: sales $2,326,153.86, profit $292,273.46, profit margin 12.56%, quantity 38,644.
+- Highest-sales category: Technology ($839,893.28, 36.1% of sales).
+- Highest-profit category: Technology ($146,543.38). Lowest margin category: Furniture (2.61%).
+- Sub-categories with negative total profit: Tables (-$17,753.21), Bookcases (-$3,632.07), Supplies (-$1,171.39).
+- Top region by sales: West ($739,813.61). Top region by profit: West ($110,798.82). Lowest regional margin: Central (7.92%).
+- Top state by sales: California ($457,687.63).
+- Best year by sales: 2026 ($745,567.53).
+- Year-over-year sales change into 2024: -4.2%.
+- Year-over-year sales change into 2025: +29.8%.
+- Year-over-year sales change into 2026: +21.4%.
+- Strongest calendar months (all years combined): Nov ($352,566.87), Dec ($330,218.18), Sep ($308,883.67).
+- Weakest calendar months (all years combined): Apr ($137,817.38), Jan ($96,069.52), Feb ($59,751.25).
+- Products with negative total profit: 302 of 1,849 (16.3%), combined loss -$77,599.68.
+- Three largest product losses: Cubify CubeX 3D Printer Double Head Print (-$8,879.97); Lexmark MX611dhe Monochrome Laser Printer (-$4,589.97); Cubify CubeX 3D Printer Triple Head Print (-$3,839.99).
+- Profit margin by discount band: No Discount: margin 29.56% over 4,924 records; 1-20%: margin 11.86% over 3,854 records; 21-40%: margin -15.30% over 463 records; Over 40%: margin -77.37% over 951 records.
+- Discount bands with negative total profit: 21-40%, Over 40%.
+- Correlation between discount and profit (per record): -0.219. This shows association, not proof of cause.
+- 88.6% of all record-level losses come from records discounted by more than 20%.
