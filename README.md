@@ -115,5 +115,10 @@ Then open Power BI Desktop and follow `docs/POWER_BI_GUIDE.md`.
 - Automated tests for the cleaning functions
 - Scheduled refresh and a published Power BI report
 
+![alt text](<Screenshot 2026-10-26 231648.png>)
+
+
 ## Author
 Yogeshwari Sandip Pawar · [GitHub](https://github.com/yogeshwarisp)
+
+
